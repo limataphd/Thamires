@@ -1,0 +1,28 @@
+---
+title: "Teaching & Mentoring"
+---
+
+Teaching, mentoring, and training are important parts of my academic work. I have trained students and researchers in experimental design, instrument operation, safe laboratory practices, rheological and spectroscopic measurements, data analysis, troubleshooting, and technical communication.
+
+## Teaching interests
+
+- Chemical engineering fundamentals
+- Soft matter and complex fluids
+- Polymer science and engineering
+- Rheology and transport phenomena
+- Materials characterization
+- Experimental design and data analysis
+- Laboratory courses involving polymers, fluids, spectroscopy, and thermal/mechanical analysis
+
+## Mentoring approach
+
+My mentoring emphasizes scientific rigor, independence, clear documentation, safe experimental practice, and thoughtful interpretation of data. I encourage students to connect experimental observations with physical mechanisms and to communicate results clearly for both specialized and interdisciplinary audiences.
+
+## Student training areas
+
+- Rheometer operation and method development
+- Thermal analysis using DSC and TGA
+- Dynamic mechanical analysis
+- Raman and FTIR spectroscopy
+- Mechanical testing and materials processing
+- Experimental planning, troubleshooting, and reproducible data analysis

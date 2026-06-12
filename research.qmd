@@ -1,0 +1,46 @@
+---
+title: "Research"
+---
+
+My research connects experimental soft-matter science, rheology, processing, and materials characterization. The unifying goal is to understand how structure, composition, and processing determine material behavior and performance.
+
+## Research themes
+
+::: {.cards}
+::: {.card}
+### Soft matter and complex fluids
+I study materials whose behavior is governed by mesoscale structure, molecular interactions, and processing history. Examples include polymeric fluids, gels, dispersions, ionic liquids, colloids, and fiber-forming systems.
+:::
+
+::: {.card}
+### Rheology and processability
+Rheology is a central tool in my work. I use shear and extensional measurements to understand viscoelasticity, flow, yielding, deformation, and processing limits in soft and polymeric materials.
+:::
+
+::: {.card}
+### Structure–property relationships
+I connect material composition and structure to physical properties using rheology, spectroscopy, thermal analysis, microscopy, and mechanical testing.
+:::
+
+::: {.card}
+### Materials characterization
+My experimental toolkit includes Raman and FTIR spectroscopy, DSC, TGA, DMA, XRD, Instron mechanical testing, microscopy, and related methods for understanding material performance.
+:::
+
+::: {.card}
+### Fibers and additive manufacturing
+I am interested in how rheological and thermal properties control fiber formation, printability, stability, and mechanical response in polymeric and soft-material systems.
+:::
+
+::: {.card}
+### Future directions
+I am interested in applying my soft-matter and characterization background to MXenes, two-dimensional materials, interfacial glass dynamics, confined materials, and high-pressure or extreme-condition studies.
+:::
+:::
+
+## Selected current questions
+
+- How do rheological properties predict spinnability, stretchability, and processability?
+- How do processing conditions alter structure, dynamics, and mechanical performance?
+- How can vibrational spectroscopy and thermal analysis reveal molecular-level changes in complex materials?
+- How can soft-matter approaches guide the development of functional materials for industrial and biomedical applications?

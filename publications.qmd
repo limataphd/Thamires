@@ -1,0 +1,31 @@
+---
+title: "Publications"
+---
+
+For the complete and most current publication list, please see my [Google Scholar profile](https://scholar.google.com/citations?user=yfydUs8AAAAJ&hl=pt-BR).
+
+## Selected publication highlights
+
+::: {.pub}
+**Unexpected Solidlike Fracture in Simple Liquids**  
+Thamires A. Lima *et al.*  
+*Physical Review Letters*, 2026.
+:::
+
+::: {.pub}
+**Featured research outputs**  
+Add selected papers here from your CV, prioritizing work most relevant to the job application: rheology, polymers, soft matter, fiber processing, spectroscopy, thermal analysis, and materials characterization.
+:::
+
+::: {.pub}
+**Covers and highlights**  
+Add items such as journal covers, Editor’s Picks, Scilight features, or university news coverage here.
+:::
+
+## Suggested organization
+
+When updating this page, keep the list selective and readable. For job applications, I recommend:
+
+1. 5–8 selected publications most aligned with the job target.
+2. A link to Google Scholar for the full list.
+3. A short note on patents, covers, or invited highlights if relevant.

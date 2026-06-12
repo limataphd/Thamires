@@ -1,0 +1,33 @@
+---
+title: "CV / Contact"
+---
+
+## CV
+
+Place your current CV PDF in the `assets/` folder and name it:
+
+`Thamires_Lima_CV.pdf`
+
+Then this button will work:
+
+[Download CV](assets/Thamires_Lima_CV.pdf){.button .primary}
+
+## Contact
+
+**Thamires Andrade Lima, Ph.D.**  
+Research Assistant Professor  
+Department of Chemical and Biological Engineering  
+Drexel University  
+Philadelphia, PA
+
+Email: [lat92@drexel.edu](mailto:lat92@drexel.edu)  
+Google Scholar: [Profile](https://scholar.google.com/citations?user=yfydUs8AAAAJ&hl=pt-BR)  
+LinkedIn: [Profile](https://www.linkedin.com/in/thamires-a-lima)
+
+## Professional summary
+
+Experimental soft-matter and materials scientist with expertise in rheology, polymers, complex fluids, spectroscopy, thermal/mechanical characterization, fiber-forming materials, and structure–property relationships. Experienced in academic research, interdisciplinary collaboration, student training, instrument troubleshooting, and industry-facing materials problems.
+
+## Keywords
+
+Soft matter · Rheology · Complex fluids · Polymers · Fiber spinning · Materials characterization · Raman spectroscopy · FTIR · DSC · TGA · DMA · Mechanical testing · Structure–property relationships · Additive manufacturing · Glassy materials · Ionic liquids

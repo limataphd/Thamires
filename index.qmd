@@ -1,0 +1,48 @@
+---
+title: "Thamires Andrade Lima, Ph.D."
+subtitle: "Soft Matter | Rheology | Polymers | Complex Fluids | Materials Characterization"
+page-layout: full
+---
+
+::: {.hero}
+::: {.hero-text}
+# Thamires Andrade Lima, Ph.D.
+
+I am a Research Assistant Professor in Chemical and Biological Engineering at Drexel University, working at the intersection of soft matter, rheology, polymer science, complex fluids, and materials characterization.
+
+My research focuses on how processing, molecular interactions, microstructure, and external conditions control the behavior of soft materials, polymeric systems, dispersions, fiber-forming materials, and glassy or highly viscous fluids.
+
+[Research interests](research.qmd){.button .primary} [Download CV](cv.qmd){.button}
+:::
+
+::: {.hero-photo}
+![](assets/profile-placeholder.svg){fig-alt="Profile photo placeholder"}
+:::
+:::
+
+## Research profile
+
+I combine rheology, thermal analysis, vibrational spectroscopy, microscopy, mechanical testing, and materials processing to connect structure, dynamics, and performance in complex soft materials. My work spans fundamental studies of non-equilibrium and confined materials as well as applied collaborations involving polymers, fibers, coatings-relevant materials, drug-delivery systems, and additive-manufacturing processes.
+
+## Core expertise
+
+::: {.cards}
+::: {.card}
+### Rheology and complex fluids
+Shear and extensional rheology, viscoelasticity, yielding, fracture-like behavior, processing–structure relationships, and high-viscosity fluids.
+:::
+
+::: {.card}
+### Polymers and soft materials
+Polymer melts, dispersions, fiber systems, gels, colloids, self-assembled materials, and structure–property relationships.
+:::
+
+::: {.card}
+### Materials characterization
+Raman and FTIR spectroscopy, DSC, TGA, DMA, mechanical testing, XRD, microscopy, and experimental troubleshooting.
+:::
+:::
+
+## Professional goals
+
+I am interested in research-track, faculty, and senior scientist opportunities where I can contribute to experimental soft-matter science, polymer/materials characterization, rheology-driven process understanding, and collaborative materials innovation.

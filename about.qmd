@@ -1,0 +1,22 @@
+---
+title: "About"
+---
+
+Thamires Andrade Lima is a Research Assistant Professor in the Department of Chemical and Biological Engineering at Drexel University. Her research background spans soft matter, polymer science, complex fluids, rheology, thermal and mechanical characterization, vibrational spectroscopy, fiber processing, and structure–property relationships in materials.
+
+Her work integrates experimental design, materials processing, and advanced characterization to understand how molecular interactions, microstructure, and processing histories control material behavior. She has studied polymer melts and dispersions, ionic liquids, colloidal and self-assembled systems, high-viscosity fluids, glassy materials, and fiber-forming soft materials.
+
+A central theme of her work is connecting measurable physical properties—such as viscoelasticity, thermal transitions, mechanical response, spectroscopic signatures, and processability—to the underlying structure and dynamics of complex materials. This perspective supports both fundamental questions in soft-matter physics and practical challenges in materials development, manufacturing, and product performance.
+
+## Professional interests
+
+- Soft matter, polymers, complex fluids, and rheology
+- Structure–property and process–structure–property relationships
+- Thermal, mechanical, and vibrational-spectroscopic characterization
+- Fiber spinning, additive manufacturing, and high-viscosity processing
+- Glassy and non-equilibrium materials
+- Collaborative research with academic and industrial partners
+
+## Current direction
+
+I am interested in expanding my work toward advanced functional materials, including confined and interfacial systems, MXenes and two-dimensional materials, and materials under extreme or non-equilibrium conditions.

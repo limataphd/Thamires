@@ -1,0 +1,36 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Thamires A. Lima, Ph.D."
+  navbar:
+    title: "Thamires A. Lima"
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
+      - href: research.qmd
+        text: Research
+      - href: publications.qmd
+        text: Publications
+      - href: teaching.qmd
+        text: Teaching & Mentoring
+      - href: cv.qmd
+        text: CV / Contact
+    right:
+      - text: Google Scholar
+        href: https://scholar.google.com/citations?user=yfydUs8AAAAJ&hl=pt-BR
+      - text: LinkedIn
+        href: https://www.linkedin.com/in/thamires-a-lima
+  page-footer:
+    center: "© 2026 Thamires A. Lima"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    smooth-scroll: true
+    link-external-newwindow: true
