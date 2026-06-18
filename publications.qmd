@@ -4,19 +4,199 @@ title: "Publications"
 
 For the complete and most current publication list, please see my [Google Scholar profile](https://scholar.google.com/citations?user=yfydUs8AAAAJ&hl=pt-BR).
 
-## Selected publication highlights
+# Peer-reviewed publications
 
-::: {.pub}
-**Unexpected Solidlike Fracture in Simple Liquids**  
-Thamires A. Lima *et al.*  
-*Physical Review Letters*, 2026.
-:::
+1. **Unexpected Solidlike Fracture in Simple Liquids**  
+   Lima, T. A.; Smith, S.; Edmund, K.; Gopinadhan, M.; Ulysse, E.; Alvarez, N.  
+   *Physical Review Letters* **136**, 124002, 2026.  
+   DOI: [10.1103/t2vy-32wr](https://doi.org/10.1103/t2vy-32wr)
 
-::: {.pub}
-**Featured research outputs**  
-Add selected papers here from your CV, prioritizing work most relevant to the job application: rheology, polymers, soft matter, fiber processing, spectroscopy, thermal analysis, and materials characterization.
-:::
+2. **Highly Aligned, Post-Drawn Electrospun Nanofiber Yarns Fabricated via a Parallel-Track System for Suture Materials**  
+   Hassinger, D.; Lima, T. A.; Alvarez, N. J.; McMillan, S.; Beachley, V.  
+   *Advanced Materials Interfaces* **13**, 202501091, 2026.  
+   DOI: [10.1002/admi.202501091](https://doi.org/10.1002/admi.202501091)
 
+3. **Filament Extension Atomizers: A Study of Integration Potential into Spray Dryers for High-Viscosity and Non-Newtonian Fluids**  
+   Neelakantan, R.; Alvarez, N. J.; Lima, T. A.; Sangli, A.; Weflen, E.; Boggs, B.; Anderson, G.; Johnson, D. M.  
+   *Physics of Fluids* **38**, 023331, 2026.  
+   Featured in *Scilight*.  
+   DOI: [10.1063/5.0302696](https://doi.org/10.1063/5.0302696)
+
+4. **Electron and Photon Induced Selenium Migration in Single Crystal 2H-NbSe2**  
+   Kelly, R.; Lima, T. A.; Barreto, L.; Karapetrov, G.  
+   *Applied Physics Letters* **127**, 121902, 2025.  
+   DOI: [10.1063/5.0291899](https://doi.org/10.1063/5.0291899)
+
+5. **Stepwise Conformational Disorder in an Ionic Plastic Crystal**  
+   Souza, L. A.; Lima, T. A.; Paschoal, V. P.; Daemen, L. L.; Sampaio, A. M.; Ribeiro, M. C. C.  
+   *The Journal of Physical Chemistry B* **129**, 4465, 2025.  
+   DOI: [10.1021/acs.jpcb.5c01199](https://doi.org/10.1021/acs.jpcb.5c01199)
+
+6. **Novel Use of Laser Zone-Drawing on Nanofibers Enables Ultra-Fast Thermal Kinetics and Precise Diameter Control**  
+   Flamini, M.; Keblawi, M.; Lima, T. A.; Alvarez, N.; Beachley, V.  
+   *Advanced Materials Technologies* **10**, 2401550, 2025.  
+   DOI: [10.1002/admt.202401550](https://doi.org/10.1002/admt.202401550)
+
+7. **CCDC 2277256: Experimental Crystal Structure Determination**  
+   O'Neill, N.; Lima, T. A.; Ferreira, F. F.; Alvarez, N. J.; Schweitzer-Stenner, R.  
+   *Cambridge Crystallographic Data Center*, 2025.  
+   DOI: [10.5517/ccdc.csd.cc2gfnwg](https://doi.org/10.5517/ccdc.csd.cc2gfnwg)
+
+8. **Synthesis and Characterization of a Di-Methacrylated Ionic Liquid Through Two-Step Esterification and Ion Exchange Process**  
+   Kinaci, E.; Francis, C.; Lima, T. A.; Palmese, G.; Alvarez, N. J.  
+   *Reactive and Functional Polymers* **197**, 105865, 2024.  
+   DOI: [10.1016/j.reactfunctpolym.2024.105865](https://doi.org/10.1016/j.reactfunctpolym.2024.105865)
+
+9. **Determining the Nanostructure and Main Axis of Gly-His-Gly Fibrils Using the Amide I' Bands in FTIR, VCD, and Raman Spectra**  
+   O'Neill, N.; Lima, T. A.; Ferreira, F. F.; Alvarez, N. J.; Schweitzer-Stenner, R.  
+   *Spectrochimica Acta Part A: Molecular and Biomolecular Spectroscopy* **306**, 123584, 2024.  
+   DOI: [10.1016/j.saa.2023.123584](https://doi.org/10.1016/j.saa.2023.123584)
+
+10. **High Performance Thermosets for Additive Manufacturing**  
+    Lima, T. A.; Fridman, A.; McLaughlin, J.; Francis, C.; Clay, A.; Narayanan, G.; Yoon, H.; Idrees, M.; Palmese, G. R.; Scala, J. L.; Alvarez, N. J.  
+    *Innovation and Emerging Technologies* **10**, 2330003, 2023.  
+    DOI: [10.1142/S2737599423300039](https://doi.org/10.1142/S2737599423300039)
+
+11. **A Novel scCO2 Dyeing Strategy for Superior Coloration of UHMWPE Fiber**  
+    Zhou, Y.*; Lima, T. A.*; Hinton, Z. R.; Henry, C. K.; Anand, M.; Alvarez, N. J.  
+    *Polymer* **273**, 125873, 2023.  
+    *Equal contribution.*  
+    DOI: [10.1016/j.polymer.2023.125873](https://doi.org/10.1016/j.polymer.2023.125873)
+
+12. **Highly Aligned Centrifugal Spun Polyacrylonitrile Nanofibers Collected and Processed with Automated Tracks**  
+    Jao, D.; Lima, T. A.; Thursch, L.; Flamini, M. D.; Pressly, J.; Ippolito, J.; Alvarez, N. J.; Beachley, V.  
+    *Macromolecular Materials and Engineering* **308**, 2200488, 2023.  
+    DOI: [10.1002/mame.202200488](https://doi.org/10.1002/mame.202200488)
+
+13. **Influence of Central Sidechain on Self-Assembly of Glycine-X-Glycine Peptides**  
+    Thursch, L.; Lima, T. A.; O'Neill, N.; Ferreira, F. F.; Schweitzer-Stenner, R.; Alvarez, N. J.  
+    *Soft Matter* **19**, 394, 2023.  
+    Journal cover.  
+    DOI: [10.1039/D2SM01082H](https://doi.org/10.1039/D2SM01082H)
+
+14. **Forbidden Secondary Structures Found in Gel-Forming Fibrils of Glycylphenylalanylglycine**  
+    O'Neill, N.; Lima, T. A.; Ferreira, F.; Thursch, L.; Alvarez, N.; Schweitzer-Stenner, R.  
+    *The Journal of Physical Chemistry B* **126**, 8080, 2022.  
+    DOI: [10.1021/acs.jpcb.2c05010](https://doi.org/10.1021/acs.jpcb.2c05010)
+
+15. **Annealing Post-Drawn Polycaprolactone Nanofibers Optimizes Crystallinity and Molecular Alignment and Enhances Mechanical Properties and Drug Release Profiles**  
+    Flamini, M. D.; Lima, T. A.; Corkum, K.; Alvarez, N. J.; Beachley, V.  
+    *Materials Advances* **3**, 3303-3315, 2022.  
+    DOI: [10.1039/D1MA01183A](https://doi.org/10.1039/D1MA01183A)
+
+16. **Vibrational Spectroscopy and Molecular Dynamics Simulation of Choline Oxyanion Salts**  
+    Souza, I.; Paschoal, V. H.; Bernardino, K.; Lima, T. A.; Daemen, L. L.; Zhang, Y.; Ribeiro, M. C. C.  
+    *Journal of Molecular Liquids* **340**, 117100, 2021.  
+    DOI: [10.1016/j.molliq.2021.117100](https://doi.org/10.1016/j.molliq.2021.117100)
+
+17. **Concentration Dependence of a Novel Hydrogel Phase Formed by the Deprotonation of the Imidazole Side Chain of Glycylhistidylglycine**  
+    Hesser, M.; Thursch, L. J.; Lewis, T.; Lima, T. A.; Alvarez, N.; Schweitzer-Stenner, R.  
+    *Langmuir* **37**, 6935, 2021.  
+    DOI: [10.1021/acs.langmuir.1c00382](https://doi.org/10.1021/acs.langmuir.1c00382)
+
+18. **A Mechanism for Improved Talc Pleurodesis via Foam Delivery**  
+    Lima, T. A.; Coler, R. A.; Laub, G. W.; Sexton, S.; Curtin, L.; Laub, K. M.; Alvarez, N. J.  
+    *Drug Delivery* **28**, 2021.  
+    DOI: [10.1080/10717544.2021.1895910](https://doi.org/10.1080/10717544.2021.1895910)
+
+19. **The Impact of Thermal History on the Structure of Glycylalanylglycine Ethanol/Water Gels**  
+    Thursch, L. J.; Lima, T. A.; Schweitzer-Stenner, R.; Alvarez, N. J.  
+    *Journal of Peptide Science*, e3305, 2021.  
+    DOI: [10.1002/psc.3305](https://doi.org/10.1002/psc.3305)
+
+20. **The Efficacy of Hydrogel Foams in Talc Pleurodesis**  
+    Baxter, J.; Lima, T. A.; Huneke, R.; Kanach, C. J.; Johal, P.; Reimold, E.; Alvarez, N. J.  
+    *Journal of Cardiothoracic Surgery* **15**, 1-8, 2020.  
+    DOI: [10.1186/s13019-020-01098-y](https://doi.org/10.1186/s13019-020-01098-y)
+
+21. **An Inelastic Neutron Scattering, Raman, Far Infrared, and Molecular Dynamics Study of the Intermolecular Dynamics of Two Ionic Liquids**  
+    Lima, T. A.; Paschoal, V. H.; Freitas, R. S.; Faria, L. F. O.; Li, Z.; Tyagi, M.; Ribeiro, M. C. C.  
+    *Physical Chemistry Chemical Physics* **22**, 9074-9085, 2020.  
+    DOI: [10.1039/D0CP00374C](https://doi.org/10.1039/D0CP00374C)
+
+22. **Low Temperature Phase Transitions of the Ionic Liquid 1-Ethyl-3-Methylimidazolium Dicyanamide**  
+    Bernardino, K.; Lima, T. A.; Ribeiro, M. C. C.  
+    *The Journal of Physical Chemistry B* **124**, 2020.  
+    DOI: [10.1021/acs.jpcb.9b07654](https://doi.org/10.1021/acs.jpcb.9b07654)
+
+23. **Low-Frequency Raman Spectra of a Glass-Forming Ionic Liquid at Low Temperature and High Pressure**  
+    Lima, T. A.; Ribeiro, M. C. C.  
+    *The Journal of Chemical Physics* **150**, 164502, 2019.  
+    DOI: [10.1063/1.5094724](https://doi.org/10.1063/1.5094724)
+
+24. **Spatial and Thermal Signatures of alpha and beta Relaxations in Glassy and Glacial Aliphatic Ionic Liquids**  
+    Lima, T. A.; Li, Z.; Tyagi, M.; Ribeiro, M. C. C.; Zhang, Y.  
+    *The Journal of Chemical Physics* **150**, 144506, 2019.  
+    DOI: [10.1063/1.5081684](https://doi.org/10.1063/1.5081684)
+
+25. **Exploring the Phase Diagram of the Ionic Liquid 1-Butyl-1-Methylpyrrolidinium Bis(trifluoromethanesulfonyl)imide**  
+    Lima, T. A.; Faria, L. F. O.; Paschoal, V. H.; Ribeiro, M. C. C.  
+    *Journal of Molecular Structure* **1183**, 149, 2019.  
+    DOI: [10.1016/j.molstruc.2019.01.076](https://doi.org/10.1016/j.molstruc.2019.01.076)
+
+26. **Communication: Glass Transition and Melting Lines of an Ionic Liquid**  
+    Lima, T. A.; Faria, L. F. O.; Paschoal, V. H.; Ribeiro, M. C. C.  
+    *The Journal of Chemical Physics* **148**, 171101, 2018.  
+    Cover and Editor's Pick.  
+    DOI: [10.1063/1.5030083](https://doi.org/10.1063/1.5030083)
+
+27. **Ultraslow Phase Transitions in an Anion-Anion Hydrogen-Bonded Ionic Liquid**  
+    Faria, L. F. O.; Lima, T. A.; Ferreira, F. F.; Ribeiro, M. C. C.  
+    *The Journal of Physical Chemistry B* **122**, 1972, 2018.  
+    DOI: [10.1021/acs.jpcb.7b09497](https://doi.org/10.1021/acs.jpcb.7b09497)
+
+28. **Local Order-Disorder Transition Driven by Structural Heterogeneity in a Benzyl-Functionalized Ionic Liquid**  
+    Faria, L. F. O.; Paschoal, V. H.; Lima, T. A.; Ferreira, F. F.; Freitas, R. S.; Ribeiro, M. C. C.  
+    *The Journal of Physical Chemistry B* **121**, 9902, 2017.  
+    DOI: [10.1021/acs.jpcb.7b08829](https://doi.org/10.1021/acs.jpcb.7b08829)
+
+29. **Phase Transitions of the Ionic Liquid [C2C1im][NTf2] Under High Pressure: A Synchrotron X-Ray Diffraction and Raman Microscopy Study**  
+    Faria, L. F. O.; Lima, T. A.; Ribeiro, M. C. C.  
+    *Crystal Growth & Design* **17**, 5384, 2017.  
+    DOI: [10.1021/acs.cgd.7b00865](https://doi.org/10.1021/acs.cgd.7b00865)
+
+30. **Unraveling the Stepwise Melting of an Ionic Liquid**  
+    Lima, T. A.; Paschoal, V. H.; Faria, L. F. O.; Ribeiro, M. C. C.  
+    *The Journal of Physical Chemistry B* **121**, 4650, 2017.  
+    DOI: [10.1021/acs.jpcb.7b03178](https://doi.org/10.1021/acs.jpcb.7b03178)
+
+31. **Comparing Two Tetraalkylammonium Ionic Liquids. II. Phase Transitions**  
+    Lima, T. A.; Paschoal, V. H.; Faria, L. F. O.; Ribeiro, M. C. C.; Ferreira, F. F.; Costa, F. N.; Giles, C.  
+    *The Journal of Chemical Physics* **144**, 224505, 2016.  
+    DOI: [10.1063/1.4953415](https://doi.org/10.1063/1.4953415)
+
+32. **Comparing Two Tetraalkylammonium Ionic Liquids. I. Liquid Phase Structure**  
+    Lima, T. A.; Paschoal, V. H.; Faria, L. F. O.; Ribeiro, M. C. C.; Giles, C.  
+    *The Journal of Chemical Physics* **144**, 224504, 2016.  
+    DOI: [10.1063/1.4953414](https://doi.org/10.1063/1.4953414)
+
+33. **Unusual Specific Heat of Almost Dry L-Cysteine and L-Cystine Amino Acids**  
+    Ishikawa, M. S.; Lima, T. A.; Ferreira, F. F.; Martinho, H. S.  
+    *Physical Review E* **91**, 032709, 2015.  
+    DOI: [10.1103/PhysRevE.91.032709](https://doi.org/10.1103/PhysRevE.91.032709)
+
+34. **Boson Peak as a Probe of Quantum Effects in a Glassy State of Biomolecules: The Case of L-Cysteine**  
+    Lima, T. A.; Ishikawa, M. S.; Martinho, H. S.  
+    *Physical Review E* **89**, 022715, 2014.  
+    DOI: [10.1103/PhysRevE.89.022715](https://doi.org/10.1103/PhysRevE.89.022715)
+
+35. **Anharmonic Transitions in Nearly Dry L-Cysteine I**  
+    Lima, T. A.; Sato, E. T.; Martins, E. T.; Homem-de-Mello, P.; Lago, A. F.; Coutinho-Neto, M. D.; Ferreira, F. F.; Giles, C.; Pires, M. O. C.; Martinho, H.  
+    *Journal of Physics: Condensed Matter* **24**, 195104, 2012.  
+    DOI: [10.1088/0953-8984/24/19/195104](https://doi.org/10.1088/0953-8984/24/19/195104)
+
+## Covers, features, and highlights
+
+**Cover and Editor's Pick**  
+*The Journal of Chemical Physics*, 2018  
+Communication: Glass Transition and Melting Lines of an Ionic Liquid.
+
+**Journal cover**  
+*Soft Matter*, 2023  
+Influence of Central Sidechain on Self-Assembly of Glycine-X-Glycine Peptides.
+
+**Featured in Scilight**  
+*Physics of Fluids*, 2026  
 ::: {.pub}
 **Covers and highlights**  
 Add items such as journal covers, Editor’s Picks, Scilight features, or university news coverage here.
